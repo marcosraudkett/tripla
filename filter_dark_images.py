@@ -1,4 +1,4 @@
-# this has the filter dark images and save light images to another folder
+# this has the ability to filter dark images and save light images to another folder
 import imageio
 import numpy as np
 import os
