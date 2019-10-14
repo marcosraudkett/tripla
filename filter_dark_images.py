@@ -8,8 +8,8 @@ from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 
-outPath = "D:\Softwares\TriplaScraper\images-DAYLIGHT"
-path = "D:\Softwares\TriplaScraper\images"
+outPath = "D:\Path\images-DAYLIGHT"
+path = "D:\Path\images"
 
 # iterate through the names of contents of the folder
 for image_path in os.listdir(path):
